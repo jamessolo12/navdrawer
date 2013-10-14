@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Primary Colors -->
+    <color name="primary_transparent_white">#01ffffff</color>
+    <color name="primary_transparent">#00000000</color>
+    <color name="primary_white">#ffffffff</color>
+
+    <!-- Font Colors -->
+    <color name="font_blue_highlighted">#ff4d8bca</color>
+    <color name="font_blue_base">#ffa6b7c7</color>
+    <color name="font_yellow_base">#fffff200</color>
+    <color name="font_body_onlight">#ff4d8bca</color>
+    <color name="font_body_faded_onlight">#ffccd4db</color>
+    <color name="font_body_required">#ffef4144</color>
+    <color name="font_menu_logout">#ffa6b7c7</color>
+    <color name="font_red">#ffef4144</color>
+    <color name="font_offwhite">#ffebecec</color>
+    <color name="font_gradient_startstop_dark">#8eafb0b0</color>
+    <color name="font_gradient_startstop_light">#8eebecec</color>
+
+    <!-- Form Items -->
+    <color name="view_stroke">#ffb8cbcf</color>
+    <color name="bg_90pc_black">#e6000000</color>
+    <color name="bg_50pc_black">#7F000000</color>
+    <color name="bg_50pc_menu_purple">#7f434958</color>
+
+    <!-- Map -->
+    <color name="map_route_line">#ff4d8bca</color>
+    <color name="map_marker_start">#ff009344</color>
+    <color name="map_marker_end">#ffef4144</color>
+
+    <!-- Views and Spacers -->
+    <color name="spacer_activity_entry">#ff4d8bca</color>
+    <color name="spacer_menu_top">#ff2d3346</color>
+    <color name="spacer_menu_bottom">#ff4b5165</color>
+    <color name="underline_settings_header">#ff4d8bca</color>
+    <color name="listview_divider">#ffccd4db</color>
+
+    <!-- Progress Bar -->
+    <color name="progress_stroke">#ff4d8bca</color>
+    <color name="progress_fill">#ff4d8bca</color>
+
+    <!-- Edit Texts -->
+    <color name="edit_text">#ff4d8bca</color>
+    <color name="edit_text_hint">#ffa6b7c7</color>
+
+    <!-- GPS State Colours -->
+    <color name="font_gps_good">#ff009344</color>
+    <color name="font_gps_average">#fff7941d</color>
+    <color name="font_gps_poor">#ffef4144</color>
+
+    <!-- Buttons -->
+    <color name="font_button_actionbar_green_pressed">#ffffffff</color>
+    <color name="font_button_actionbar_green_unpressed">#ffffffff</color>
+    <color name="font_button_activity_green_pressed">#ffffffff</color>
+    <color name="font_button_activity_green_unpressed">#ffffffff</color>
+    <color name="font_button_activity_blue_pressed">#ffffffff</color>
+    <color name="font_button_activity_blue_unpressed">#ffffffff</color>
+    <color name="font_shadow">#7f000000</color>
+    <color name="font_button_startstop_shadow">#48000000</color>
+
+    <!-- Badge Slider Dots -->
+    <color name="dialog_badge_slider_dots_white">#ffffffff</color>
+    <color name="dialog_badge_slider_dots_grey">#ff6a6a6a</color>
+
+    <!-- Moved From DriveSmart - Please alter as needed! -->
+    <color name="bg_edittext">#ffffffff</color>
+
+    <!-- Calendar -->
+    <color name="calendar_bg_selected">#ffeef1f5</color>
+    <color name="calendar_stroke_selected">#ffef4144</color>
+    <color name="calendar_stroke_default">#ffccd4db</color>
+
+</resources>

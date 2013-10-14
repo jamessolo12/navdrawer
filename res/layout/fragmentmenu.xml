@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent"
+	android:layout_height="wrap_content"
+	android:orientation="vertical" >
+
+	<TextView
+		android:id="@+id/fragment_menu_btn_animal"
+		style="@style/MenuButton"
+		android:drawableLeft="@drawable/animal"
+		android:text="@string/muppet_animal" />
+
+	<View
+		android:layout_width="match_parent"
+		android:layout_height="1dp"
+		android:background="@color/spacer_menu_top" />
+
+	<View
+		android:layout_width="match_parent"
+		android:layout_height="1dp"
+		android:background="@color/spacer_menu_bottom" />
+
+	<TextView
+		android:id="@+id/fragment_menu_btn_gonzo"
+		style="@style/MenuButton"
+		android:drawableLeft="@drawable/gonzo"
+		android:text="@string/muppet_gonzo" />
+
+</LinearLayout>
